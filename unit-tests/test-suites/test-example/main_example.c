@@ -45,7 +45,7 @@ int main(void)
     UnityBegin("Test Examples");
     DO_TEST(test_thatSucceeds);
     DO_TEST(test_succeedsWithCondition);
-    DO_TEST(test_failsWithCondition)l
+    DO_TEST(test_failsWithCondition);
     UnityEnd();
 
 
